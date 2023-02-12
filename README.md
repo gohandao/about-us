@@ -20,8 +20,8 @@ For the backend, we are pushing Supabase, but we are basically adopting technolo
 - [Slii - NFTクリエイター検索アプリ](https://slii.xyz)
 - will be soon...
 
-開発アプリはどんどん増やしていきます！<br>
-We'll keep developing more apps!
+先日はTinderライクなNFTクリエイターの検索アプリ作成してみました。開発アプリはどんどん増やしていきます！<br>
+we recently created a Tinder-like NFT creator search application.　We'll keep developing more apps!
 
 # Links
 - [Twitter - https://twitter.com/gohan_dao](https://twitter.com/gohan_dao)
