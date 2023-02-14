@@ -1,7 +1,7 @@
-Gohan DAOは、まったり個人/共同開発しているDiscordコミュニティです。（DAOではない）<br>
+Gohan DAOは、まったり個人/共同開発しているDiscordコミュニティです。（DAOではない）     
 個人開発してるプロダクトを共有して一緒に改善したり、技術まわりの検証など行っています。
 
-Gohan DAO is a Discord community that is a quiet individual/collaborative development. (Not DAO) <br>
+Gohan DAO is a Discord community that is a quiet individual/collaborative development. (Not DAO)       
 We share and improve our products together, and test our technology together.
 
 # Stacks
@@ -10,17 +10,17 @@ We share and improve our products together, and test our technology together.
 - Next.js
 - Supabase
 
-Typescript, Reactを中心に開発を進めています。<br>
+Typescript, Reactを中心に開発を進めています。  
 バックエンドはSupabaseを推していますが、基本的には興味ある技術を採用していくスタイルです。
 
-We are developing mainly in Typescript and React.<br>
+We are developing mainly in Typescript and React.  
 For the backend, we are pushing Supabase, but we are basically adopting technologies that interest us.
 
 # Apps
 - [Slii - NFTクリエイター検索アプリ](https://slii.xyz)
 - will be soon...
 
-先日はTinderライクなNFTクリエイターの検索アプリ作成してみました。開発アプリはどんどん増やしていきます！<br>
+先日はTinderライクなNFTクリエイターの検索アプリ作成してみました。開発アプリはどんどん増やしていきます！  
 we recently created a Tinder-like NFT creator search application.　We'll keep developing more apps!
 
 # Links
@@ -30,10 +30,10 @@ we recently created a Tinder-like NFT creator search application.　We'll keep d
 - [Discord - https://discord.gg/CCwTrB2k6r](https://discord.gg/CCwTrB2k6r)
 
 # Others
-よかったらDiscordにご参加ください。ゼロベースですが、色々チャレンジしていけたらと！<br>
-Discord内：4名（編集時点）
+よかったらDiscordにご参加ください。ゼロベースですが、色々チャレンジしていけたらと！  
+Discord内：5名（編集時点）
 
-Please join us on Discord if you like. We're zero-based, but we're up for a lot of challenges!<br>
-In Discord: 4 members (at the time of editing)
+Please join us on Discord if you like. We're zero-based, but we're up for a lot of challenges!  
+In Discord: 5 members (at the time of editing)
 
 [Discordはこちら](https://discord.gg/CCwTrB2k6r)
