@@ -31,9 +31,9 @@ we recently created a Tinder-like NFT creator search application.　We'll keep d
 
 # Others
 よかったらDiscordにご参加ください。ゼロベースですが、色々チャレンジしていけたらと！<br>
-Discord内：4名（編集時点）
+Discord内：10名（編集時点）
 
 Please join us on Discord if you like. We're zero-based, but we're up for a lot of challenges!<br>
-In Discord: 4 members (at the time of editing)
+In Discord: 10 members (at the time of editing)
 
 [Discordはこちら](https://discord.gg/CCwTrB2k6r)
